@@ -2,7 +2,7 @@
 ## Current puzzle : Sudoku
 ### Challenges
 - Sudoku generator
-- Sudoku solver
+- Sudoku Solver
 - Difficulty ranker
 
 ### Step 1 : Generator

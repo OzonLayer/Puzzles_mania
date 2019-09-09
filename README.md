@@ -3,7 +3,7 @@
 ### Sudoku
 *reference: [wiki](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)*
 
-ToDo :
+Todo :
 - [ ] backtracking
 
 

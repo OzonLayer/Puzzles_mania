@@ -1,8 +1,12 @@
 # Puzzles mania
-# Puzzles mania
-https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
+## Current puzzle
+### Sudoku
+*reference: [wiki](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)*
 
-sudoku
+ToDo :
+- [ ] backtracking
 
-STRATEGIC TIC-TAC-TOE
-sliding puzzle
+
+## Other puzzle
+- sliding puzzle
+- STRATEGIC TIC-TAC-TOE

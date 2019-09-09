@@ -7,6 +7,6 @@ ToDo :
 - [ ] backtracking
 
 
-## Other puzzle
-- sliding puzzle
-- STRATEGIC TIC-TAC-TOE
+## Other puzzles
+- Sliding puzzle
+- Strategic tic-tac-toe
